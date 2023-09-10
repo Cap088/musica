@@ -1,3 +1,15 @@
 body {
     background-color: hsla(261, 82%, 46%, 0.918);
 }
+
+.espaciadoTitulo {
+    margin-bottom: 100px;
+    color:#93e22b
+}
+img{
+    border-radius: 50%;
+}
+h1:hover {
+    color: orange;
+
+}
